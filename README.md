@@ -10,3 +10,7 @@ https://nodejs.org/en/download/package-manager
 
 The Spotify tutorial recommends using Vite as the The redirect_uri parameter is the URL that Spotify will redirect the user back to after they've authorized the application. 
 In this case, the URL listed in the Redirect URIs section of my Spotify Application Settings in the Developer Dashboard needs to point to the Vite local dev server.
+
+Data Request and Displayed will be:
+- User ID
+- Spotify URI
